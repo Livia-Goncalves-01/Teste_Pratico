@@ -8,15 +8,12 @@ Teste_Pratico para vaga de estágio DTI
   retornaria o nome do Petshop mais em conta na região. </p>
   
   
-  <p align="justify">Documentação completa do problema se encontra no repositório com o nome: Teste Prático A - Desenvolvimento. </p>
-  
-
   <h3> Código </h3>
-  <p>Foi criado um arquivo main.cpp e arquivos da classe Orcamento.hpp e Orcamento.cpp que são desenvolvimento métodos para resolver o problema. </p>
+  <p>Criou-se um arquivo main.cpp e arquivos da classe Orcamento.hpp e Orcamento.cpp que são desenvolvimento métodos para resolver o problema. </p>
   <h5>Main.cpp</h5>
   
   <p align="justify"> Ao inicializar o programa é requisitado dados de entrada: Data (xx/xx/xxxx), quantidade de cães de raça pequena (x) e quantidade de 
-  cães de raça grande (x). </p>
+  cães de raça grande (x). Veja o exemplo a seguir:</p>
   <p align="center">
   <img src="Teste-Pratico/imgs/ExemploEntrada.png" width="400px">
   </p>
