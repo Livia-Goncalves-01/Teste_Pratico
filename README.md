@@ -10,19 +10,6 @@ Teste_Pratico para vaga de estágio DTI
   
   <p align="justify">Documentação completa do problema se encontra no repositório com o nome: Teste Prático A - Desenvolvimento. </p>
   
-  <h3> Compilação e Execução</h3>
-  
-
-  <p align="justify">O algoritmo disponibilizado possui um arquivo Makefile que realiza todo o procedimento de compilação e execução. Para tanto, 
-  temos as seguintes diretrizes de execução: </p>
-
-
-| Comando                |  Função                                                                                           |                     
-| -----------------------| ------------------------------------------------------------------------------------------------- |
-|  `make clean`          | Apaga a última compilação realizada contida na pasta build                                        |
-|  `make`                | Executa a compilação do programa utilizando o gcc, e o resultado vai para a pasta build           |
-|  `make run`            | Executa o programa da pasta build após a realização da compilação                                 |
-
 
   <h3> Código </h3>
   <p>Foi criado um arquivo main.cpp e arquivos da classe Orcamento.hpp e Orcamento.cpp que são desenvolvimento métodos para resolver o problema. </p>
@@ -49,4 +36,17 @@ Teste_Pratico para vaga de estágio DTI
   <img src="Teste-Pratico/imgs/ExemploResultado.png" width="400px">
   </p>
   
+  <h3> Compilação e Execução</h3>
+  
+
+  <p align="justify">O algoritmo disponibilizado possui um arquivo Makefile que realiza todo o procedimento de compilação e execução. Para tanto, 
+  temos as seguintes diretrizes de execução: </p>
+
+
+| Comando                |  Função                                                                                           |                     
+| -----------------------| ------------------------------------------------------------------------------------------------- |
+|  `make clean`          | Apaga a última compilação realizada contida na pasta build                                        |
+|  `make`                | Executa a compilação do programa utilizando o gcc, e o resultado vai para a pasta build           |
+|  `make run`            | Executa o programa da pasta build após a realização da compilação                                 |
+
   
