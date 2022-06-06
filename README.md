@@ -31,7 +31,7 @@ Teste_Pratico para vaga de estágio DTI
   <p align="justify"> Ao inicializar o programa é requisitado dados de entrada: Data (xx/xx/xxxx), quantidade de cães de raça pequena (x) e quantidade de 
   cães de raça grande (x). </p>
   <p align="center">
-  <img src="imgs/ExemploEntrada.png" width="400px">
+  <img src="Teste-Pratico/imgs/ExemploEntrada.png" width="400px">
   </p>
   
   <p align="justify"> Foi utilizado a biblioteca "Time.h" para trabalhar com data disponibilizada pelo usuário na função DiaSemana(), onde é analisado
@@ -46,7 +46,7 @@ Teste_Pratico para vaga de estágio DTI
   é atribuido as variáveis do tipo float as funções citadas acima e compara o orcamento de menor custo ou caso houver mais de um orçamento com o mesmo
   valor é retornado ao usuário o orçamento mais próximo dentre desses.</p>
   <p align="center">
-  <img src="imgs/ExemploResultado.png" width="400px">
+  <img src="Teste-Pratico/imgs/ExemploResultado.png" width="400px">
   </p>
   
   
